@@ -1,0 +1,32 @@
+.header_right img{
+  width:40px;
+  height:40px;
+}
+.header_right{
+  float:right;
+}
+.logo{
+   text-align:center;
+   background-color: #b1b6b07a;
+}
+
+.header_bottom {
+    display: flex;
+    background: #f0f0f0;
+    text-align: center;
+    clear: both;
+}    
+.header_top a {
+    color: #c52323;
+    text-decoration: none;
+    flex: 1;
+}
+table {
+    margin: auto;
+}
+h2{
+    text-align:center;
+}
+.header_top span{
+    color:red;
+}

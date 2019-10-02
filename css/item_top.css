@@ -1,0 +1,92 @@
+body{
+  width: 1200px;
+  margin:auto;
+}
+.logo{
+  text-align: center;
+  background-color: #b1b6b07a
+}
+section.item {
+    border-bottom: solid 1px;
+}
+p.title{
+  text-align: center;
+  border: solid 1px;
+  margin: 20px auto;
+  width: 50%;
+  border-radius: 8px;
+  padding: 5px;
+  color: #1c12049c;
+}
+ .item img{
+    height: 100%;
+ }
+
+
+.item {
+    margin: 5px;
+    width: 30%;
+    border: 1px solid;
+    text-align: center;
+    display: inline-block;
+}
+.item p{
+  margin-top:0px;
+  margin-bottom: 0px;
+}
+.review{
+  margin: 15px 0;
+}
+span{
+  color:red;
+}
+form{
+    margin-bottom:5px;
+    text-align: center;
+}
+.review a {
+    border: 1px solid #E91E63;
+    text-decoration: none;
+    padding-right: 10px;
+    text-align: center;
+    margin: 0px 5px;
+    padding: 5px;
+    border-radius: 8px;
+    color: red;
+}
+input[type="submit"] {
+    padding: 3px 8px;
+    border-radius: 7px;
+    background-color: #0086fd4f;
+
+}
+main{
+    margin-top:10px;
+}
+nav {
+    float: left;
+    border: solid 2px;
+    width: 15%;
+    /* margin-top: 21px; */
+}
+article {
+    float: left;
+    width: 70%;
+}
+ul{
+    padding-left: 0px;
+}
+li{
+    list-style: none;
+    margin: 5px;
+    text-align: left;
+}
+nav p{
+    text-align:center;
+    color:red;
+}
+.img_contents {
+    display: inline-block;
+    /* height: 20%; */
+    height: 80px;
+}

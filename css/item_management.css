@@ -1,0 +1,39 @@
+
+body {
+    width: 1200px;
+    margin: auto;
+}
+
+
+.form{
+    border-bottom: solid 2px;
+    padding: 10px 0;
+    text-align: center;
+}
+
+table img {
+    width: 50px;
+}
+
+th{
+    color: #6c3935;
+    border: solid black 1px;
+    padding: 5px;
+
+}
+td{
+    border: 1px solid;
+    padding: 5px;
+}
+.form div {
+    margin: 10px;
+}
+form p {
+    color: red;
+}
+main{
+    border-bottom: 1px solid;
+}
+.item {
+    margin-bottom: 30px;
+}

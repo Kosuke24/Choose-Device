@@ -1,0 +1,20 @@
+footer p {
+    text-align: center;
+    opacity: 0.5;
+}
+footer{
+  border-top:1px solid;
+  clear:both;
+}
+section.news {
+    text-align: center;
+}
+.news a {
+    border: 1px solid;
+    padding:3px 45px;
+    width: 50%;
+    margin: 0 auto 20px auto;
+    border-radius: 7px;
+    text-decoration: none;
+    color: #1c12049c;
+}

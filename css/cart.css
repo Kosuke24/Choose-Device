@@ -1,0 +1,70 @@
+body{
+  width: 1200px;
+  margin:auto;
+}
+table {
+  border-collapse: collapse;
+  margin: 15px auto;
+}
+.head{
+  border-bottom:1px solid;
+}
+img.img {
+    width: 80px;
+}
+td{
+  padding: 0px 10px;
+}
+input.text {
+    width: 65px;
+}
+.buy input{
+    border-radius: 8px;
+    width: 212px;
+    background-color: #ff00006b;
+}
+.buy{
+  text-align: center;
+  margin-bottom: 40px;
+}
+main{
+  margin-bottom: 30px;
+}
+.sum{
+    color:red;
+}
+li {
+    text-align: center;
+    margin-top: 10px;
+    color: red;
+}
+p.no_item {
+    color: red;
+    text-align: center;
+}
+p.move {
+    border: 1px solid;
+    /* text-decoration: none; */
+    text-align: center;
+    width: 30%;
+    margin: 0 auto;
+    border-radius: 8px;
+}
+a{
+    text-decoration:none;
+}
+.move a {
+    /* padding: 10px 0; */
+    text-decoration: none;
+    color: #f46736;
+}
+.move {
+    text-align: center;
+    text-decoration: none;
+    width: 50%;
+    margin: 10px auto;
+    border: solid 1px;
+    border-radius: 15px;
+    paddding: 10px 0;
+    padding: 3px 0;
+}

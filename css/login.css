@@ -1,0 +1,35 @@
+header {
+    text-align: center;
+    background-color: #b1b6b07a;
+}
+body {
+    width: 960px;
+    margin: auto;
+}
+form {
+    text-align: center;
+}
+
+form div {
+    margin: 10px 0;
+}
+.register{
+  text-align:center;
+  margin: 10px;
+}
+.register a {
+    text-decoration: none;
+    color: #e91e1eb3;
+}
+li {
+    color: red;
+    list-style: none;
+}
+section {
+    border: solid 1px;
+    width: 50%;
+    margin: auto;
+}
+main {
+    margin: 30px 0;
+}

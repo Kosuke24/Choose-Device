@@ -1,0 +1,82 @@
+body{
+  width: 1200px;
+  margin: auto;
+}
+img.img {
+    width: 120px;
+    margin-left: 80px;
+    margin-top: 15px;
+}
+form{
+  text-align: right;
+}
+.review_submit{
+  margin-bottom: 10px;
+  text-align: right;
+}
+textarea{
+  width: 300px;
+  height: 70px;
+  margin-top: 15px;
+}
+p.review{
+  width: 287px;
+  border: 1px solid;
+  padding:10px;
+
+}
+.items{
+  display: flex;
+
+}
+.item{
+  flex: 1;
+  margin-right: 30px;
+}
+.item a{
+    text-decoration:none;
+    display:block;
+    text-align:right;
+    
+}
+.name {
+    padding-left:115px;
+}
+.review {
+    border-radius: 7px;
+    text-align: center;
+    width: 200px;
+    border: solid 1px;
+    /* padding-left: 30px; */
+    padding-bottom: 5px;
+    padding-top: 5px;
+    float: right;
+    /* text-decoration: none; */
+}
+ul {
+    border: 1px solid;
+}
+.move a {
+    /* padding: 10px 0; */
+    text-decoration: none;
+    color: #f46736;
+}
+.move {
+    text-align: center;
+    text-decoration: none;
+    width: 50%;
+    margin: 10px auto;
+    border: solid 1px;
+    border-radius: 15px;
+    paddding: 10px 0;
+    padding: 3px 0;
+    clear: both;
+}
+.no_review{
+    text-align:center;
+    margin:10px 0;
+}
+a {
+    color: red;
+    text-decoration: none;
+}
